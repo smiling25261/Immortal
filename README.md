@@ -1,12 +1,12 @@
-Immortal — Open Robotics Encyclopedia
+# Immortal — Open Robotics Encyclopedia
 
 Immortal is a full-stack, community-driven robotics encyclopedia designed to organize and explore information about robotics technologies and their system specifications.
 
-🚀 Overview
+🚀 # Overview
 
 The project provides a centralized platform for discovering and managing technical information related to robotics. It focuses on making large collections of robotics data easier to search, filter, and explore.
 
-✨ Features
+✨ # Features
 
 - Robotics Technology Database
   Tracks robotics technologies and their technical/system specifications.
